@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🌍 <strong>Based in Bengaluru, Karnataka</strong><br>
+  🌏 <strong>Based in Bengaluru, Karnataka</strong><br>
   
 
    <a href="https://gagan.dev" target="_blank">
