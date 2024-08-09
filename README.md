@@ -6,8 +6,8 @@
 
 <p align="center">
   🌍 <strong>Based in Bengaluru, Karnataka</strong><br>
-  <a href="https://gagan.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
+   <a href="https://gagan.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
   </a>
   <a href="mailto:gagan.s0191@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
