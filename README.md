@@ -26,18 +26,18 @@
 
 ## 📆 My Recent Projects
 
-1. [Weather app Project ☀️](https://gagan0191-github.github.io/weatherAppProject/)
-2. [Rock paper scissors 👊](https://gagan0191-github.github.io/rockPaperScissors/)
-3. [Calculator program 🖩](https://gagan0191-github.github.io/calculatorProgram/)
-4. [Digital clock Program 🕐](https://gagan0191-github.github.io/digitalClockProgram/)
-5. [Image slider 🖼️](https://gagan0191-github.github.io/imageSlider/)
-6. [Temperature conversion 🌡️](https://gagan0191-github.github.io/temperatureConversion/)
-7. [Random password generator 🔑](https://gagan0191-github.github.io/randomPasswordGenerator)
-8. [Stopwatch program ⏱](https://gagan0191-github.github.io/stopwatchProgram/)
-9. [Number Guessing game ✔️](https://gagan0191-github.github.io/numberGuessingGame/)
-10. [Random number generator 🧮](https://gagan0191-github.github.io/randomNumberGenerator/)
-11. [Counter Program 🔢](https://gagan0191-github.github.io/counterProgram/)
-12. [Dice Roller program 🎲](https://gagan0191-github.github.io/diceRollerprogram/)
+1. [Weather app Project ☀️](https://gaganprogramming.github.io/weatherAppProject/)
+2. [Rock paper scissors 👊](https://gaganprogramming.github.io/rockPaperScissors/)
+3. [Calculator program 🖩](https://gaganprogramming.github.io/calculatorProgram/)
+4. [Digital clock Program 🕐](https://gaganprogramming.github.io/digitalClockProgram/)
+5. [Image slider 🖼️](https://gaganprogramming.github.io/imageSlider/)
+6. [Temperature conversion 🌡️](https://gaganprogramming.github.io/temperatureConversion/)
+7. [Random password generator 🔑](https://gaganprogramming.github.io/randomPasswordGenerator)
+8. [Stopwatch program ⏱](https://gaganprogramming.github.io/stopwatchProgram/)
+9. [Number Guessing game ✔️](https://gaganprogramming.github.io/numberGuessingGame/)
+10. [Random number generator 🧮](https://gaganprogramming.github.io/randomNumberGenerator/)
+11. [Counter Program 🔢](https://gaganprogramming.github.io/counterProgram/)
+12. [Dice Roller program 🎲](https://gaganprogramming.github.io/diceRollerprogram/)
 
 ---
 
@@ -63,5 +63,5 @@
 
 ## 📊 Github Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gagan0191-github&show_icons=true&theme=radical" alt="Gagan's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gaganprogramming&show_icons=true&theme=radical" alt="Gagan's GitHub stats"/>
 </p>
