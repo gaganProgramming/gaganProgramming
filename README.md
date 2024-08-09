@@ -8,11 +8,18 @@ A Full Stack Developer aspirant for building responsive, accessible, and inclusi
 - 💬 [WhatsApp](https://wa.me/9008962068)
 
 ## 🛠️ My Recent Projects
-- [Vet management system](#)
-- [Movies website](#)
-- [Photo search gallery](#)
-- [Time tracking dashboard](#)
-- [Blog for all developers](#)
+- [Weather app Project](https://gagan0191-github.github.io/weatherAppProject/)
+- [Rock paper scissors](https://gagan0191-github.github.io/rockPaperScissors/)
+- [Calculator program](https://gagan0191-github.github.io/calculatorProgram/)
+- [Digital clock Program](https://gagan0191-github.github.io/digitalClockProgram/)
+- [Image slider](https://gagan0191-github.github.io/imageSlider/)
+- [Temperature conversion](https://gagan0191-github.github.io/temperatureConversion/)
+- [Random password generator](https://gagan0191-github.github.io/randomPasswordGenerator)
+- [Stopwatch program](https://gagan0191-github.github.io/stopwatchProgram/)
+- [Number Guessing game](https://gagan0191-github.github.io/numberGuessingGame/)
+- [Random number generator](https://gagan0191-github.github.io/randomNumberGenerator/)
+- [Counter Program](https://gagan0191-github.github.io/counterProgram/)
+
 
 ## 🛠️ Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
