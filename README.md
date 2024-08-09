@@ -2,7 +2,7 @@
 
 A Full Stack Developer aspirant for building responsive, accessible, and inclusive digital products and experiences for the web.
 
-- 🌍 Based in Nairobi, Kenya
+- 🌍 Based in Bengaluru, Karnataka
 - 🔗 [Portfolio Website](https://gagan.dev)
 - 📧 [Email Me](mailto:gagan.s0191@gmail.com)
 - 💬 [WhatsApp](https://wa.me/9008962068)
