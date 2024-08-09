@@ -21,4 +21,4 @@ A Full Stack Developer aspirant for building responsive, accessible, and inclusi
 ...
 
 ## 📊 Github Stats:
-![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnMwendwa&show_icons=true&theme=dark)
+![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagan0191&show_icons=true&theme=dark)
