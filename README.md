@@ -6,7 +6,7 @@
 
 <p align="center">
   🌍 <strong>Based in Bengaluru, Karnataka</strong><br>
-  <img src="https://img.shields.io/badge/Location-Bengaluru,Karnataka-FFA500?style=for-the-badge&logo=map-pin&logoColor=white" alt="Location Pin"/>
+  
 
    <a href="https://gagan.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
@@ -24,8 +24,7 @@
 
 ---
 
-## 🛠️ My Recent Projects
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio"/>
+## 📆 My Recent Projects
 
 1. [Weather app Project](https://gagan0191-github.github.io/weatherAppProject/)
 2. [Rock paper scissors](https://gagan0191-github.github.io/rockPaperScissors/)
