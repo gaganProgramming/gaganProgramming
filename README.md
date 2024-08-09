@@ -6,6 +6,8 @@
 
 <p align="center">
   🌍 <strong>Based in Bengaluru, Karnataka</strong><br>
+  <img src="https://img.shields.io/badge/Location-Bengaluru,Karnataka-FFA500?style=for-the-badge&logo=map-pin&logoColor=white" alt="Location Pin"/>
+
    <a href="https://gagan.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
   </a>
@@ -23,6 +25,8 @@
 ---
 
 ## 🛠️ My Recent Projects
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio"/>
+
 1. [Weather app Project](https://gagan0191-github.github.io/weatherAppProject/)
 2. [Rock paper scissors](https://gagan0191-github.github.io/rockPaperScissors/)
 3. [Calculator program](https://gagan0191-github.github.io/calculatorProgram/)
@@ -52,6 +56,9 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
 </p>
 
 ---
