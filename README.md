@@ -26,19 +26,18 @@
 
 ## 📆 My Recent Projects
 
-1. [Weather app Project](https://gagan0191-github.github.io/weatherAppProject/)
-2. [Rock paper scissors](https://gagan0191-github.github.io/rockPaperScissors/)
-3. [Calculator program](https://gagan0191-github.github.io/calculatorProgram/)
-4. [Digital clock Program](https://gagan0191-github.github.io/digitalClockProgram/)
-5. [Image slider](https://gagan0191-github.github.io/imageSlider/)
-6. [Temperature conversion](https://gagan0191-github.github.io/temperatureConversion/)
-7. [Random password generator](https://gagan0191-github.github.io/randomPasswordGenerator)
-8. [Stopwatch program](https://gagan0191-github.github.io/stopwatchProgram/)
-9. [Number Guessing game](https://gagan0191-github.github.io/numberGuessingGame/)
-10. [Random number generator](https://gagan0191-github.github.io/randomNumberGenerator/)
-11. [Counter Program](https://gagan0191-github.github.io/counterProgram/)
-12. [MERN Stack Blog](https://github.com/Gagan0191-github/mern-stack-blog)
-13. [Java Banking System](https://github.com/Gagan0191-github/java-banking-system)
+1. [Weather app Project ☀️](https://gagan0191-github.github.io/weatherAppProject/)
+2. [Rock paper scissors 👊](https://gagan0191-github.github.io/rockPaperScissors/)
+3. [Calculator program 🖩](https://gagan0191-github.github.io/calculatorProgram/)
+4. [Digital clock Program 🕐](https://gagan0191-github.github.io/digitalClockProgram/)
+5. [Image slider 🖼️](https://gagan0191-github.github.io/imageSlider/)
+6. [Temperature conversion 🌡️](https://gagan0191-github.github.io/temperatureConversion/)
+7. [Random password generator 🔑](https://gagan0191-github.github.io/randomPasswordGenerator)
+8. [Stopwatch program ⏱](https://gagan0191-github.github.io/stopwatchProgram/)
+9. [Number Guessing game ✔️](https://gagan0191-github.github.io/numberGuessingGame/)
+10. [Random number generator 🧮](https://gagan0191-github.github.io/randomNumberGenerator/)
+11. [Counter Program 🔢](https://gagan0191-github.github.io/counterProgram/)
+12. [Dice Roller program 🎲](https://gagan0191-github.github.io/diceRollerprogram/)
 
 ---
 
