@@ -37,7 +37,7 @@
 9. [Number Guessing game ✔️](https://gaganprogramming.github.io/numberGuessingGame/)
 10. [Random number generator 🧮](https://gaganprogramming.github.io/randomNumberGenerator/)
 11. [Counter Program 🔢](https://gaganprogramming.github.io/counterProgram/)
-12. [Dice Roller program 🎲](https://gaganprogramming.github.io/diceRollerprogram/)
+12. [Dice Roller program 🎲](https://gaganprogramming.github.io/diceRollerProgram/)
 
 ---
 
