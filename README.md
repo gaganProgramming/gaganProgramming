@@ -1,7 +1,7 @@
 <h1 align="center">Hi... I'm Gagan 👋</h1>
 
 <p align="center">
-  <em>A Full Stack Developer aspirant for building responsive, accessible, and inclusive digital products and experiences for the web.</em>
+  <em>I'm a passionate Full Stack Developer focusing on creating responsive, accessible, and inclusive digital experiences. I love solving complex problems and building innovative solutions that enhance user experiences.</em>
 </p>
 
 <p align="center">
@@ -23,19 +23,19 @@
 ---
 
 ## 🛠️ My Recent Projects
-- [Weather app Project](https://gagan0191-github.github.io/weatherAppProject/)
-- [Rock paper scissors](https://gagan0191-github.github.io/rockPaperScissors/)
-- [Calculator program](https://gagan0191-github.github.io/calculatorProgram/)
-- [Digital clock Program](https://gagan0191-github.github.io/digitalClockProgram/)
-- [Image slider](https://gagan0191-github.github.io/imageSlider/)
-- [Temperature conversion](https://gagan0191-github.github.io/temperatureConversion/)
-- [Random password generator](https://gagan0191-github.github.io/randomPasswordGenerator)
-- [Stopwatch program](https://gagan0191-github.github.io/stopwatchProgram/)
-- [Number Guessing game](https://gagan0191-github.github.io/numberGuessingGame/)
-- [Random number generator](https://gagan0191-github.github.io/randomNumberGenerator/)
-- [Counter Program](https://gagan0191-github.github.io/counterProgram/)
-- [MERN Stack Blog](https://github.com/Gagan0191-github/mern-stack-blog)
-- [Java Banking System](https://github.com/Gagan0191-github/java-banking-system)
+1. [Weather app Project](https://gagan0191-github.github.io/weatherAppProject/)
+2. [Rock paper scissors](https://gagan0191-github.github.io/rockPaperScissors/)
+3. [Calculator program](https://gagan0191-github.github.io/calculatorProgram/)
+4. [Digital clock Program](https://gagan0191-github.github.io/digitalClockProgram/)
+5. [Image slider](https://gagan0191-github.github.io/imageSlider/)
+6. [Temperature conversion](https://gagan0191-github.github.io/temperatureConversion/)
+7. [Random password generator](https://gagan0191-github.github.io/randomPasswordGenerator)
+8. [Stopwatch program](https://gagan0191-github.github.io/stopwatchProgram/)
+9. [Number Guessing game](https://gagan0191-github.github.io/numberGuessingGame/)
+10. [Random number generator](https://gagan0191-github.github.io/randomNumberGenerator/)
+11. [Counter Program](https://gagan0191-github.github.io/counterProgram/)
+12. [MERN Stack Blog](https://github.com/Gagan0191-github/mern-stack-blog)
+13. [Java Banking System](https://github.com/Gagan0191-github/java-banking-system)
 
 ---
 
