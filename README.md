@@ -31,6 +31,8 @@
 - [Number Guessing game](https://gagan0191-github.github.io/numberGuessingGame/)
 - [Random number generator](https://gagan0191-github.github.io/randomNumberGenerator/)
 - [Counter Program](https://gagan0191-github.github.io/counterProgram/)
+- [MERN Stack Blog](https://github.com/Gagan0191-github/mern-stack-blog)
+- [Java Banking System](https://github.com/Gagan0191-github/java-banking-system)
 
 ---
 
