@@ -6,9 +6,15 @@
 
 <p align="center">
   🌍 <strong>Based in Bengaluru, Karnataka</strong><br>
-  🔗 <a href="https://gagan.dev">Portfolio Website</a><br>
-  📧 <a href="mailto:gagan.s0191@gmail.com">Email Me</a><br>
-  💬 <a href="https://wa.me/9008962068">WhatsApp</a>
+  <a href="https://gagan.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
+  </a>
+  <a href="mailto:gagan.s0191@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gagan.s0191@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+  <a href="https://wa.me/9008962068">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
 
 ---
