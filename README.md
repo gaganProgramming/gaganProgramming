@@ -81,7 +81,7 @@ Welcome to my GitHub profile! I'm a passionate web developer who focuses on the 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
 </p>
-------
+
 ### 📫 Connect with Me
 - 📧 Email: [gagan.0191@gmail.com](mailto:gagan.0191@gmail.com)
 - 📱 Phone: +91 9008962068
