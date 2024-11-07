@@ -24,6 +24,30 @@
 
 ---
 
+
+Welcome to my GitHub profile! I'm a passionate web developer who focuses on the MERN stack and front-end development.
+
+![Header Image](https://github.com/gaganProgramming/gaganProgramming/blob/main/assets/header.png) <!-- Customize your header image link -->
+
+### 🚀 About Me
+- 🌐 **Web Developer** with hands-on experience in building responsive and interactive websites.
+- 🎨 I’m currently working on **MERN projects** and enhancing my **React** and **Tailwind CSS** skills.
+- 💼 Previously worked at **BatterMami Private Limited** as a Web Developer and **Horizon** as a Software Engineer intern.
+- 🎥 I also share web development tutorials on my [YouTube channel](https://www.youtube.com/channel/UCGagan).
+
+### 🛠️ Tech Stack
+- **Languages**: JavaScript, HTML, CSS, React, Node.js
+- **Frameworks & Libraries**: React, Bootstrap, Tailwind CSS
+- **Tools**: Git, GitHub, VS Code
+
+### 🌟 Projects
+- [Amazon UI Clone](https://gaganprogramming.github.io/Amazon-UI-Clone/): A front-end replica of Amazon’s UI.
+- **Move-It**: A transportation website designed with Bootstrap.
+
+
+
+
+
 ## 📆 My Recent Projects
 
 1. [Weather app Project ☀️](https://gaganprogramming.github.io/weatherAppProject/)
@@ -58,5 +82,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
 </p>
+------
+### 📫 Connect with Me
+- 📧 Email: [gagan.0191@gmail.com](mailto:gagan.0191@gmail.com)
+- 📱 Phone: +91 9008962068
+- 💼 [LinkedIn](https://www.linkedin.com/in/gagan-suresh)
+- 🖥️ [GitHub](https://github.com/gaganProgramming)
 
+### ⚡ Fun Fact
+I love sharing tech articles on Instagram to connect with other developers and recruiters in the field!
 
