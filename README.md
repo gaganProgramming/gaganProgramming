@@ -27,7 +27,6 @@
 
 Welcome to my GitHub profile! I'm a passionate web developer who focuses on the MERN stack and front-end development.
 
-![Header Image](https://github.com/gaganProgramming/gaganProgramming/blob/main/assets/header.png) <!-- Customize your header image link -->
 
 ### 🚀 About Me
 - 🌐 **Web Developer** with hands-on experience in building responsive and interactive websites.
