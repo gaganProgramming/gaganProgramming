@@ -59,9 +59,4 @@
   <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
 </p>
 
----
 
-## 📊 Github Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaganprogramming&show_icons=true&theme=radical" alt="Gagan's GitHub stats"/>
-</p>
