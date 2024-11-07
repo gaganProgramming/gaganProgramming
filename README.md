@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm a passionate web developer who focuses on the 
 - **Tools**: Git, GitHub, VS Code
 
 ### 🌟 Projects
-- [Amazon UI Clone](https://gaganprogramming.github.io/Amazon-UI-Clone/): A front-end replica of Amazon’s UI.
-- **Move-It**: A transportation website designed with Bootstrap.
+- [Amazon UI Clone](https://gaganprogramming.github.io/Amazon-UI-Clone/): A front-end replica of Amazon’s UI. 
+- [Move-It](https://gaganprogramming.github.io/Move-It/): A transportation website designed with Bootstrap.
 - Tindog: A playful, responsive website for "dog dating," showcasing creative UI/UX design for pet lovers.
 - Drum Kit: An interactive, fun web app where users can play drum sounds by clicking on images or pressing keys, built to demonstrate JavaScript event handling.
 - Text Utils: A text manipulation app that allows users to edit text, like converting between uppercase and lowercase, removing extra spaces, and more.
