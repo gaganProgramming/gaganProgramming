@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a passionate web developer who focuses on the 
 
 
 
-## 📆 My Recent Projects
+## 📆 My Recent JS Projects
 
 1. [Weather app Project ☀️](https://gaganprogramming.github.io/weatherAppProject/)
 2. [Rock paper scissors 👊](https://gaganprogramming.github.io/rockPaperScissors/)
