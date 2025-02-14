@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate web developer who focuses on the 
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me🩷
 
 - 💻 **Full Stack Web Developer** passionate about building innovative and user-friendly web applications.
 - 🌱 Currently expanding my knowledge in **Next.js**, **FastAPI**, and **AI/ML Technologies**.
