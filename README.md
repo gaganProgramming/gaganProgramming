@@ -27,12 +27,55 @@
 
 Welcome to my GitHub profile! I'm a passionate web developer who focuses on the MERN stack and front-end development.
 
+---
 
-### 🚀 About Me
-- 🌐 **Web Developer** with hands-on experience in building responsive and interactive websites.
-- 🎨 I’m currently working on **MERN projects** and enhancing my **React** and **Tailwind CSS** skills.
-- 💼 Previously worked at **BatterMami Private Limited** as a Web Developer and **Horizon** as a Software Engineer intern.
-- 🎥 I also share web development tutorials on my [YouTube channel](https://www.youtube.com/channel/UCGagan).
+## 🚀 About Me
+
+- 💻 **Full Stack Web Developer** passionate about building innovative and user-friendly web applications.
+- 🌱 Currently expanding my knowledge in **Next.js**, **FastAPI**, and **AI/ML Technologies**.
+- 💼 **Previous Experience:** Web Developer at **BatterMami Private Limited** and Software Engineer Intern at **Horizon**.
+- 🎥 I share web development tutorials and insights on my [YouTube channel](https://www.youtube.com/channel/UCGagan).
+- ⚡ Love engaging with the dev community through Instagram & LinkedIn!
+
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript, HTML, CSS, Python, Java
+- **Frontend:** React, Next.js, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js, FastAPI
+- **Database:** MongoDB, MySQL, Firebase
+- **Tools:** Git, GitHub, Postman, VS Code
+
+## 🌟 Featured Projects
+
+- 🎨 [Amazon UI Clone](https://gaganprogramming.github.io/Amazon-UI-Clone/) – A responsive front-end replica of Amazon.
+- 🚛 [Move-It](https://gaganprogramming.github.io/Move-It/) – A transportation website built with Bootstrap.
+- 🐶 [Tindog](https://gaganprogramming.github.io/tinDogWebsite/) – A fun pet dating website with creative UI.
+- 🥁 [Drum Kit](https://gaganprogramming.github.io/drumKit/) – Interactive drum set using JavaScript.
+- 📝 [Passop](https://youtu.be/9BVy_BAk7T0) – A **MERN Stack Password Manager** with secure authentication.
+
+## 📆 Recent JavaScript Projects
+
+1. [Weather App ☀️](https://gaganprogramming.github.io/weatherAppProject/)
+2. [Rock Paper Scissors Game ✊](https://gaganprogramming.github.io/rockPaperScissors/)
+3. [Calculator 🖩](https://gaganprogramming.github.io/calculatorProgram/)
+4. [Digital Clock 🕐](https://gaganprogramming.github.io/digitalClockProgram/)
+5. [Image Slider 🖼️](https://gaganprogramming.github.io/imageSlider/)
+6. [Temperature Converter 🌡️](https://gaganprogramming.github.io/temperatureConversion/)
+
+## 📫 Connect with Me
+
+- 📧 Email: [gagan.0191@gmail.com](mailto\:gagan.0191@gmail.com)
+- 📱 Phone: +91 9008962068
+- 💼 [LinkedIn](https://www.linkedin.com/in/gagan-suresh)
+- 🖥️ [GitHub](https://github.com/gaganProgramming)
+
+## ⚡ Fun Fact
+
+I love sharing tech articles on Instagram and connecting with developers and recruiters in the field!
+
+ok give this in chat so that I can copy
+
+
 
 ### 🛠️ Tech Stack
 - **Languages**: JavaScript, HTML, CSS, React, Node.js
