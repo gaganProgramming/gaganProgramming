@@ -62,38 +62,12 @@ Welcome to my GitHub profile! I'm a passionate web developer who focuses on the 
 5. [Image Slider 🖼️](https://gaganprogramming.github.io/imageSlider/)
 6. [Temperature Converter 🌡️](https://gaganprogramming.github.io/temperatureConversion/)
 
-## 📫 Connect with Me
-
-- 📧 Email: [gagan.0191@gmail.com](mailto\:gagan.0191@gmail.com)
-- 📱 Phone: +91 9008962068
-- 💼 [LinkedIn](https://www.linkedin.com/in/gagan-suresh)
-- 🖥️ [GitHub](https://github.com/gaganProgramming)
-
-## ⚡ Fun Fact
-
-I love sharing tech articles on Instagram and connecting with developers and recruiters in the field!
-
-ok give this in chat so that I can copy
-
 
 
 ### 🛠️ Tech Stack
 - **Languages**: JavaScript, HTML, CSS, React, Node.js
 - **Frameworks & Libraries**: React, Bootstrap, Tailwind CSS
 - **Tools**: Git, GitHub, VS Code
-
-### 🌟 Projects
-- [Amazon UI Clone](https://gaganprogramming.github.io/Amazon-UI-Clone/): A front-end replica of Amazon’s UI. 
-- [Move-It](https://gaganprogramming.github.io/Move-It/): A transportation website designed with Bootstrap.
-- [Tindog](https://gaganprogramming.github.io/tinDogWebsite/): A playful, responsive website for "dog dating," showcasing creative UI/UX design for pet lovers.
-- [Drum Kit](https://gaganprogramming.github.io/drumKit/): An interactive, fun web app where users can play drum sounds by clicking on images or pressing keys, built to demonstrate JavaScript event handling.
-- Text Utils: A text manipulation app that allows users to edit text, like converting between uppercase and lowercase, removing extra spaces, and more.
-- News Monkey: A dynamic news app built using React to fetch and display news articles from various categories.
-- iNotebook: A personal note-keeping application with login functionality to securely save and access notes.
-- React Redux Project: A sample project demonstrating state management with Redux in a React application.
-
-
-
 
 
 ## 📆 My Recent JS Projects
