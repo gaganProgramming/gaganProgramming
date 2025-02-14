@@ -8,7 +8,7 @@
   🌏 <strong>Based in Bengaluru, Karnataka</strong><br>
   
 
-   <a href="https://gaganprogramming.github.io/portfolioWebsite/" target="_blank">
+   <a href="https://gaganprogramming.github.io/portfolio-website/" target="_blank">
     <img src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
   </a>
   <a href="mailto:gagan.s0191@gmail.com">
