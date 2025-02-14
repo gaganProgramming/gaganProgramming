@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a passionate web developer who focuses on the 
 - 🥁 [Drum Kit](https://gaganprogramming.github.io/drumKit/) – Interactive drum set using JavaScript.
 - 📝 [Passop](https://youtu.be/9BVy_BAk7T0) – A **MERN Stack Password Manager** with secure authentication.
 
-## 📆 Recent JavaScript Projects
+## 📆 Recent JavaScript Projects💛
 
 1. [Weather App ☀️](https://gaganprogramming.github.io/weatherAppProject/)
 2. [Rock Paper Scissors Game ✊](https://gaganprogramming.github.io/rockPaperScissors/)
@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a passionate web developer who focuses on the 
 5. [Image Slider 🖼️](https://gaganprogramming.github.io/imageSlider/)
 6. [Temperature Converter 🌡️](https://gaganprogramming.github.io/temperatureConversion/)
 
-## 📆 Recent React Projects
+## 📆 Recent React Projects💙
 - 📝 [Passop](https://youtu.be/9BVy_BAk7T0) – A **MERN Stack Password Manager** with secure authentication.
 
 
