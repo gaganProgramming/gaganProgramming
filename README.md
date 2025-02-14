@@ -64,29 +64,6 @@ Welcome to my GitHub profile! I'm a passionate web developer who focuses on the 
 
 
 
-### 🛠️ Tech Stack
-- **Languages**: JavaScript, HTML, CSS, React, Node.js
-- **Frameworks & Libraries**: React, Bootstrap, Tailwind CSS
-- **Tools**: Git, GitHub, VS Code
-
-
-## 📆 My Recent JS Projects
-
-1. [Weather app Project ☀️](https://gaganprogramming.github.io/weatherAppProject/)
-2. [Rock paper scissors 👊](https://gaganprogramming.github.io/rockPaperScissors/)
-3. [Calculator program 🖩](https://gaganprogramming.github.io/calculatorProgram/)
-4. [Digital clock Program 🕐](https://gaganprogramming.github.io/digitalClockProgram/)
-5. [Image slider 🖼️](https://gaganprogramming.github.io/imageSlider/)
-6. [Temperature conversion 🌡️](https://gaganprogramming.github.io/temperatureConversion/)
-7. [Random password generator 🔑](https://gaganprogramming.github.io/randomPasswordGenerator)
-8. [Stopwatch program ⏱](https://gaganprogramming.github.io/stopwatchProgram/)
-9. [Number Guessing game ✔️](https://gaganprogramming.github.io/numberGuessingGame/)
-10. [Random number generator 🧮](https://gaganprogramming.github.io/randomNumberGenerator/)
-11. [Counter Program 🔢](https://gaganprogramming.github.io/counterProgram/)
-12. [Dice Roller program 🎲](https://gaganprogramming.github.io/diceRollerProgram/)
-
----
-
 ## 🛠️ Languages and Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
