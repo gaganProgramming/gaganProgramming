@@ -1,4 +1,4 @@
-<h1 align="center">Hi... I'm Gagan 👋🙏🙏</h1>
+<h1 align="center"> Namaste! I'm Gagan 👋🙏🙏</h1>
 
 <p align="center">
   <em>I'm a passionate Full Stack Developer focusing on creating responsive, accessible, and inclusive digital experiences. I love solving complex problems and building innovative solutions that enhance user experiences.</em>
