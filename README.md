@@ -62,6 +62,8 @@ Welcome to my GitHub profile! I'm a passionate web developer who focuses on the 
 5. [Image Slider 🖼️](https://gaganprogramming.github.io/imageSlider/)
 6. [Temperature Converter 🌡️](https://gaganprogramming.github.io/temperatureConversion/)
 
+## 📆 Recent JavaScript Projects
+- 📝 [Passop](https://youtu.be/9BVy_BAk7T0) – A **MERN Stack Password Manager** with secure authentication.
 
 
 ## 🛠️ Languages and Tools:
